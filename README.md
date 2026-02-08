@@ -11,17 +11,17 @@ Each project has its own repository with source code, documentation, and notes o
 | Month      | Project | Status |
 |-----------|---------|--------|
 | January   | [Asteroid Game](https://github.com/minjk25/asteroid-game) ☄️ 🕹️ </br>`A simple Asteroids-style game built with Python and Pygame to learn OOP fundamentals.` | ✅ Completed |
-| February  | ⏳ Coming soon | 🚧 In Progress |
-| March     | ⏳ Coming soon | 🚧 In Progress |
-| April     | ⏳ Coming soon | 🚧 In Progress |
-| May       | ⏳ Coming soon | 🚧 In Progress |
-| June      | ⏳ Coming soon | 🚧 In Progress |
-| July      | ⏳ Coming soon | 🚧 In Progress |
-| August    | ⏳ Coming soon | 🚧 In Progress |
-| September | ⏳ Coming soon | 🚧 In Progress |
-| October   | ⏳ Coming soon | 🚧 In Progress |
-| November  | ⏳ Coming soon | 🚧 In Progress |
-| December  | ⏳ Coming soon | 🚧 In Progress |
+| February  | ⏳ Coming soon | In Progress |
+| March     | ⏳ Coming soon | In Progress |
+| April     | ⏳ Coming soon | In Progress |
+| May       | ⏳ Coming soon | In Progress |
+| June      | ⏳ Coming soon | In Progress |
+| July      | ⏳ Coming soon | In Progress |
+| August    | ⏳ Coming soon | In Progress |
+| September | ⏳ Coming soon | In Progress |
+| October   | ⏳ Coming soon | In Progress |
+| November  | ⏳ Coming soon | In Progress |
+| December  | ⏳ Coming soon | In Progress |
 
 ## 🧰 📖 Tech & Focus Areas <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR2NGVhd2tqenR0enFkcnJjdHlnMWo4b29icGh3cWM4NGpzdm1kOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xw0byfRYmmm0Ka4r4m/giphy.gif" width="70">
 
