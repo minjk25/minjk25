@@ -1,4 +1,4 @@
-# Hello World 👋 🌏 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> I'm Min.
+# Hello World 👋 🌏 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> I'm Min (or Jeerapas Kwansiri) <img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="90">
 I’m currently learning software development by building **one project every month** as part of a personal challenge called **12 Projects in 12 Months**. It's kinda like one of my 2026 resolutions tbh 💪
 
 The goal here is to stay consistent, learn by doing, and continuously improve my problem-solving skills, code quality, and system design through real projects.
@@ -23,7 +23,7 @@ Each project has its own repository with source code, documentation, and notes o
 | November  | ⏳ Coming soon | In Progress |
 | December  | ⏳ Coming soon | In Progress |
 
-## 🧰 📖 Tech & Focus Areas <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODR2NGVhd2tqenR0enFkcnJjdHlnMWo4b29icGh3cWM4NGpzdm1kOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xw0byfRYmmm0Ka4r4m/giphy.gif" width="70">
+## 🧰 📖 Tech & Focus Areas <img src="https://media.giphy.com/media/xw0byfRYmmm0Ka4r4m/giphy.gif" width="70">
 
 - Languages: `Python`, `Go` (and more to come...)
 - Currently learning:
