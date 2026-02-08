@@ -10,7 +10,7 @@ Each project has its own repository with source code, documentation, and notes o
 
 | Month      | Project | Status |
 |-----------|---------|--------|
-| January   | [Asteroid Game](https://github.com/minjk25/asteroid-game) ☄️ 🕹️ </br>`A simple Asteroids-style game built with Python and Pygame to learn OOP fundamentals.` | ✅ Completed |
+| January   | [Asteroid Game](https://github.com/minjk25/asteroid-game) ☄️ 🕹️ </br>`A simple Asteroids-style game built with Python and Pygame to learn OOP fundamentals.` | ✅Completed |
 | February  | ⏳ Coming soon | In Progress |
 | March     | ⏳ Coming soon | In Progress |
 | April     | ⏳ Coming soon | In Progress |
