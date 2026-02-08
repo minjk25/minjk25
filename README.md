@@ -1,12 +1,17 @@
-# Hello World 👋 🌏 I'm Min (or Jeerapas Kwansiri)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
+# Hello World <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> 🌏 I'm Min (or Jeerapas Kwansiri)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
 I’m currently learning software development by building **one project every month** as part of a personal challenge called **12 Projects in 12 Months**. It's kinda like one of my 2026 resolutions tbh 💪
 
 The goal here is to stay consistent, learn by doing, and continuously improve my problem-solving skills, code quality, and system design through real projects.
 
-Each project has its own repository with source code, documentation, and notes on what I learned along the way.
 
 
+<details>
+<summary>
+  more about <b>12 Projects in 12 Months</b>
+</summary>
+  
 ## 📅 12 Projects in 12 Months — Roadmap <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> 
+Each project has its own repository with source code, documentation, and notes on what I learned along the way.
 
 | Month      | Project | Status |
 |-----------|---------|--------|
@@ -34,3 +39,5 @@ Each project has its own repository with source code, documentation, and notes o
 ---
 
 > PS: This README will be updated as I continue building and learning throughout the year. So I hope that I'll stay consistent and keep learning 🥺🙏 wish me luck 🤞🥺🍀
+
+</details>
