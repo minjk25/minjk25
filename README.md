@@ -1,4 +1,4 @@
-# Hello World 👋 🌏 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70"> I'm Min (or Jeerapas Kwansiri) <img src="https://media4.giphy.com/media/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="90">
+# Hello World 👋 🌏 I'm Min (or Jeerapas Kwansiri)<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70">
 I’m currently learning software development by building **one project every month** as part of a personal challenge called **12 Projects in 12 Months**. It's kinda like one of my 2026 resolutions tbh 💪
 
 The goal here is to stay consistent, learn by doing, and continuously improve my problem-solving skills, code quality, and system design through real projects.
