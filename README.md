@@ -16,7 +16,7 @@ Each project has its own repository with source code, documentation, and notes o
 | Month      | Project | Status |
 |-----------|---------|--------|
 | January   | [Asteroid Game](https://github.com/minjk25/asteroid-game) ☄️ 🕹️ </br>`A simple Asteroids-style game built with Python and Pygame to learn OOP fundamentals.` | ✅Completed |
-| February  | ⏳ Coming soon | In Progress |
+| February  | [AI Code Assistant](https://github.com/minjk25/python-ai-agent) 🦾 🤖 </br>`An AI coding agent built with Python and Google Gemini to learn function calling and agentic workflows.`| ✅Completed |
 | March     | ⏳ Coming soon | In Progress |
 | April     | ⏳ Coming soon | In Progress |
 | May       | ⏳ Coming soon | In Progress |
