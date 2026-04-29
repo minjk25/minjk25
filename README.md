@@ -18,7 +18,7 @@ Each project has its own repository with source code, documentation, and notes o
 | January   | [Asteroid Game](https://github.com/minjk25/asteroid-game) ☄️ 🕹️ </br>`A simple Asteroids-style game built with Python and Pygame to learn OOP fundamentals.` | ✅Completed |
 | February  | [AI Code Assistant](https://github.com/minjk25/python-ai-agent) 🦾 🤖 </br>`An AI coding agent built with Python and Google Gemini to learn function calling and agentic workflows.`| ✅Completed |
 | March     | [Pokedex CLI](https://github.com/minjk25/pokedexcli) 👾 ⚡️ </br>`A command-line Pokedex built with Go and the PokeAPI to learn REST API consumption, in-memory caching, and REPL design.`| ✅Completed |
-| April     | ⏳ Coming soon | In Progress |
+| April     | [File Server App with S3](https://github.com/minjk25/learn-file-storage-s3-golang-starter) 📥 📺 </br>`A file server application built with Go, AWS S3, and CloudFront to learn object storage, video streaming and CDN distribution`| ✅Completed |
 | May       | ⏳ Coming soon | In Progress |
 | June      | ⏳ Coming soon | In Progress |
 | July      | ⏳ Coming soon | In Progress |
