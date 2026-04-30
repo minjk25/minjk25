@@ -7,7 +7,7 @@ The goal here is to stay consistent, learn by doing, and continuously improve my
 
 <details>
 <summary>
-  more about <b>12 Projects in 12 Months</b>
+  more about <b>12 Projects in 12 Months</b> <img src="https://media1.giphy.com/media/SUrsiHF4luv67S85Ls/giphy.gif" width="40px">
 </summary>
   
 ## 📅 12 Projects in 12 Months — Roadmap <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> 
@@ -30,7 +30,7 @@ Each project has its own repository with source code, documentation, and notes o
 
 ## 🧰 📖 Tech & Focus Areas <img src="https://media.giphy.com/media/xw0byfRYmmm0Ka4r4m/giphy.gif" width="70">
 
-- Languages: `Python`, `Go` (and more to come...)
+- Languages: `Python`, `Go`, `SQL` (and more to come...)
 - Currently learning:
   - Data structures & algorithms
   - Backend fundamentals
