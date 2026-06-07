@@ -19,7 +19,7 @@ Each project has its own repository with source code, documentation, and notes o
 | February  | [AI Code Assistant](https://github.com/minjk25/python-ai-agent) 🦾 🤖 </br>`An AI coding agent built with Python and Google Gemini to learn function calling and agentic workflows.`| <p align="center"><img src="https://skillicons.dev/icons?i=python"/></p> | ✅Completed |
 | March     | [Pokedex CLI](https://github.com/minjk25/pokedexcli) 👾 ⚡️ </br>`A command-line Pokedex built with Go and the PokeAPI to learn REST API consumption, in-memory caching, and REPL design.`| <p align="center"><img src="https://skillicons.dev/icons?i=go"/></p> | ✅Completed |
 | April     | [File Server App with S3](https://github.com/minjk25/learn-file-storage-s3-golang-starter) 📥 📺 </br>`A file server application built with Go, AWS S3, and CloudFront to learn object storage, video streaming and CDN distribution`| <p align="center"><img src="https://skillicons.dev/icons?i=go,aws,sqlite"/></p> | ✅Completed |
-| May       | ⏳ Coming soon | In Progress | In Progress |
+| May       | [Algorithms Visualization](https://github.com/minjk25/algorithms-visualization) 📊 📈 </br>`An interactive sorting algorithm visualizer built with vanilla JavaScript to learn and practice algorithms, DOM manipulation, and asynchronous programming.`| <p align="center"><img src="https://skillicons.dev/icons?i=js,html,css"/></p> | ✅Completed |
 | June      | ⏳ Coming soon | In Progress | In Progress |
 | July      | ⏳ Coming soon | In Progress | In Progress |
 | August    | ⏳ Coming soon | In Progress | In Progress |
@@ -30,7 +30,7 @@ Each project has its own repository with source code, documentation, and notes o
 
 ## 🧰 📖 Tech & Focus Areas <img src="https://media.giphy.com/media/xw0byfRYmmm0Ka4r4m/giphy.gif" width="70">
 
-- Languages: `Python`, `Go`, `SQL` (and more to come...)
+- Languages: `Python`, `Go`, `SQL`, `JavaScript` (and more to come...)
 - Currently learning:
   - Data structures & algorithms
   - Backend fundamentals
